@@ -24,3 +24,9 @@ Collecting 100 images to store in the database for a new user
 
 3.Face verification:
 OTP gets generated as soon as the face is matched.
+
+4. Web Page for OTP verification
+a)When the correct OTP is entered:
+the OTP generated is encrypted using Triple DES algorithm explained
+b)When the incorrect OTP is entered:
+   INCORRECT OTP
